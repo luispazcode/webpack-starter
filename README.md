@@ -1,5 +1,14 @@
-# Webpack configurado
+# Webpack Starter
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+### Notas:
+Para usar este repositorio, deberán ejecutar el comando de 
+```
+npm install
+```
 
-Pero esto lo veremos en la siguiente sección
+Y para generar el dis:
+ ``` 
+ npm run build 
+ ```
+
+
